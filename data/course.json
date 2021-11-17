@@ -1,0 +1,48 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biomaterials"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Structural Biology"
+    ],
+    [
+      "Engineering",
+      "Nanotechnology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biotechnology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "38e986cf-d667-1314-1fa4-24521cbb173c"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Molecular Structure of Biological Materials (BE.442)",
+  "course_description": "This course, intended for both graduate and upper level undergraduate students, will focus on understanding of the basic molecular structural principles of biological materials. It will address the molecular structures of various materials of biological origin, such as several types of collagen, silk, spider silk, wool, hair, bones, shells, protein adhesives, GFP, and self-assembling peptides. It will also address molecular design of new biological materials applying the molecular structural principles. The long-term goal of this course is to teach molecular design of new biological materials for a broad range of applications. A brief history of biological materials and its future perspective as well as its impact to the society will also be discussed. Several experts will be invited to give guest lectures.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "20.342",
+  "primary_course_number": "20.442",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Presentation Assignments with Examples",
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
